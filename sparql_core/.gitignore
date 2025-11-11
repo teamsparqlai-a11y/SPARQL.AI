@@ -1,0 +1,12 @@
+# Ignore the Python virtual environment
+venv/
+
+# Ignore the .env file (contains secret keys)
+.env
+
+# Ignore the memory file (contains personal user data)
+long_term_memory.json
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
